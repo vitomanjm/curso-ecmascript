@@ -14,5 +14,6 @@
     "Course"
   ],
   "author": "Vicktor Jaimes <vitomanjm@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module" 
 }
